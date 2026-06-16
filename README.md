@@ -22,5 +22,5 @@ Kullanıcılar olarak, cihazınızda saklanan verileri uygulamanın "Verileri Te
 Bu Gizlilik Politikası zaman zaman güncellenebilir. Önemli bir değişiklik yapıldığında, güncel politika bu sayfa üzerinden yayınlanacaktır. Değişiklikleri takip etmek için bu sayfayı düzenli olarak gözden geçirmeniz önerilir.
 ### 7. İletişim
 Bu gizlilik politikası veya uygulamanın veri uygulamaları hakkında herhangi bir sorunuz varsa, bizimle iletişime geçebilirsiniz:
- * **E-posta:** [E-posta Adresinizi Buraya Yazın]
+ * **E-posta:** [E-posta orhanbozkurt57@gmail.com]
  * 
